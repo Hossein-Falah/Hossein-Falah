@@ -15,7 +15,7 @@ const HosseinFalah = {
     language: ["javaScript", "typeScript"] // Node.js,         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js", "fastify", "koa.js", "Nest.js"],                   
+          frameworks: ["Express.js", "fastify", "Nest.js"],                   
           microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
           realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
