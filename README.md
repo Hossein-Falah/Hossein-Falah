@@ -1,10 +1,16 @@
 <h1>Hi 👋, I'm Hossein</h1>
 <h3>A passionate backend developer from Iran</h3>
 
-My Name is a **HosseinFalah**, I'm 21 year old. software engineer based in Iran.
-While I might not be old enough to drive, I've been coding for almost 1 years now! My passion for programming started early, and it's been an incredible journey of building, creating, and solving problems with code.
+I'm Hossein Falah, a 21-year-old software engineer from Iran.
+I'm a passionate backend developer with nearly a year of hands-on experience building backend systems using Node.js and NestJS.
 
-When I'm not coding, you might find me lost in the world of music, or tinkering with Linux desktops, customizing them to my perfect workflow. But my technical interests take a more serious turn when it comes to software architecture and networks. I'm a firm believer in **clean code** practices, taking inspiration from the works of Uncle Bob (Robert C. Martin).
+My journey in coding began recently, but it's been packed with challenges, learning, and growth. I love building clean, scalable APIs and learning more about software architecture and networking every day.
+
+When I’m not deep into backend development, I enjoy exploring the Linux ecosystem — customizing my desktop and optimizing my workflow for speed and simplicity.
+Outside of tech, music keeps me focused and creative.
+
+I’m passionate about clean, maintainable code and love studying software architecture.
+Inspired by developers like Uncle Bob, I constantly strive to write code that’s not only functional but also elegant and future-proof.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> more about me...  
 
