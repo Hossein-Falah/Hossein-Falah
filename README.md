@@ -16,25 +16,22 @@ Inspired by developers like Uncle Bob, I constantly strive to write code that’
 
 ```javascript
 const HosseinFalah = {     
-    pronouns: "He" | "Him",     
+    pronouns: "He",     
     aboutMe: "I'm Backend Developer(Node.js)"
-    language: ["javaScript", "typeScript"] // Node.js,         
+    language: ["javaScript", "typeScript"]         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js", "fastify", "Nest.js"],                   
+          frameworks: ["Express.js", "Nest.js"],                   
           microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
           realTimeTools: ["socket.io", "webSocket"],
-          DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
+          DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch", "PostgreSQL"],
           architectures: ["MVC", "onion", "clean", "SOLID"],
           API: ["postman", "insomnia", "swagger", "openAPI"],
           
-        },         
-        frontEnd: {             
-          web: ["i'm not front-end developer 😁", "You can call me a bug fixer 😂"],         
-        },         
+        },
         devOps: ["Docker🐳"],               
    },    
-   currentFocus: "Node.js Web Development",     
+   currentFocus: "Node.js design backend systeam",     
    funFact: "Bug's and Errors are my best friends" 
 };
 ```
