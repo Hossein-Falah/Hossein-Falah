@@ -1,16 +1,18 @@
 <h1>Hi 👋, I'm Hossein</h1>
-<h3>A passionate backend developer from Iran</h3>
+<h3>A passionate backend developer</h3>
 
-I'm Hossein Falah, a 21-year-old software engineer from Iran.
-I'm a passionate backend developer with nearly a year of hands-on experience building backend systems using Node.js and NestJS.
+### About Me
 
-My journey in coding began recently, but it's been packed with challenges, learning, and growth. I love building clean, scalable APIs and learning more about software architecture and networking every day.
+Backend Engineer with 3+ years of experience building scalable and high-performance backend systems using Node.js and TypeScript. I focus on designing clean, maintainable, and reliable services with a strong emphasis on simplicity, performance, and real business impact.
 
-When I’m not deep into backend development, I enjoy exploring the Linux ecosystem — customizing my desktop and optimizing my workflow for speed and simplicity.
-Outside of tech, music keeps me focused and creative.
+I have experience working with modern backend technologies, databases, APIs, distributed systems, and containerized environments. I enjoy solving complex problems, optimizing database interactions, improving system performance, and designing architectures that can scale with business needs.
 
-I’m passionate about clean, maintainable code and love studying software architecture.
-Inspired by developers like Uncle Bob, I constantly strive to write code that’s not only functional but also elegant and future-proof.
+I believe in understanding problems at their root rather than applying temporary fixes. I take ownership of the systems I work on, continuously learn new technologies, and prefer simple and practical solutions over unnecessary complexity and overengineering.
+
+I thrive in collaborative environments and enjoy working on challenging problems where I can contribute technically, learn from others, and help build reliable software that makes a real impact.
+
+The harder and more challenging the problem is, the more motivated I become to solve it.
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> more about me...  
 
